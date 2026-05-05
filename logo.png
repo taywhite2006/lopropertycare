@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>LO'S Lawnscape & Pressure Washing | Jacksonville, NC</title>
+  <meta name="description" content="Lawn mowing, edging, hedge trimming, yard cleanups, and pressure washing in Jacksonville, NC and surrounding areas. Call or text for a free quote." />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700;800;900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="page-glow"></div>
+
+  <header class="site-header" id="top">
+    <a class="brand" href="#top" aria-label="LO'S Lawnscape home">
+      <img src="logo.png" alt="LO'S Lawnscape & Pressure Washing logo" />
+      <span>LO'S Lawnscape</span>
+    </a>
+    <nav class="desktop-nav">
+      <a href="#services">Services</a>
+      <a href="#pricing">Pricing</a>
+      <a href="#reviews">Reviews</a>
+      <a href="#quote">Free Quote</a>
+    </nav>
+    <a class="nav-cta" href="tel:9103782417">Call Now</a>
+  </header>
+
+  <main>
+    <section class="hero reveal">
+      <div class="hero-copy">
+        <p class="eyebrow">Jacksonville, NC • Lawn Care & Pressure Washing</p>
+        <h1>Clean yards. Sharp edges. Like-new surfaces.</h1>
+        <p class="hero-text">LO'S Lawnscape & Pressure Washing brings your property back to life with reliable service, clean lines, and no-shortcut results.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" href="tel:9103782417">Call 910-378-2417</a>
+          <a class="btn btn-secondary" href="sms:9103782417?&body=Hey%20LO'S%20Lawnscape%2C%20I%20need%20a%20free%20quote.">Text For Quote</a>
+        </div>
+        <div class="trust-row">
+          <span>First-time customer discount</span>
+          <span>Weekly / Bi-weekly / One-time</span>
+          <span>Free quotes</span>
+        </div>
+      </div>
+      <div class="hero-card float-card">
+        <img src="logo.png" alt="LO'S Lawnscape & Pressure Washing logo" />
+        <div class="service-checks">
+          <span>✓ Lawn Mowing</span>
+          <span>✓ Edging & Weed Eating</span>
+          <span>✓ Hedge Trimming</span>
+          <span>✓ Yard Cleanups</span>
+          <span>✓ Pressure Washing</span>
+        </div>
+      </div>
+    </section>
+
+    <section class="stats reveal">
+      <div><strong>$65+</strong><span>Lawn Services</span></div>
+      <div><strong>$120+</strong><span>Pressure Washing</span></div>
+      <div><strong>$550–$600+</strong><span>Large Driveways</span></div>
+    </section>
+    <section class="owner-section reveal">
+      <div class="owner-photo-wrap">
+        <img src="owner-photo.jpg" alt="Owner of LO'S Lawnscape & Pressure Washing" class="owner-photo" />
+      </div>
+      <div>
+        <p class="eyebrow">Meet The Owner</p>
+        <h2>Local, reliable, and serious about clean results.</h2>
+        <p>LO takes pride in every job — sharp lawn lines, clean edges, fresh surfaces, and dependable communication from quote to finish.</p>
+        <div class="owner-actions">
+          <a class="btn btn-primary" href="tel:9103782417">Call LO</a>
+          <a class="btn btn-secondary" href="sms:9103782417?&body=Hey%20LO%2C%20I%20saw%20your%20website%20and%20need%20a%20quote.">Text For Quote</a>
+        </div>
+      </div>
+    </section>
+
+
+    <section class="section reveal" id="services">
+      <div class="section-heading">
+        <p class="eyebrow">What We Do</p>
+        <h2>Property care that looks professional from the curb.</h2>
+      </div>
+      <div class="service-grid">
+        <article class="service-card"><span>🌿</span><h3>Lawn Mowing</h3><p>Consistent cuts that keep your yard clean, even, and maintained.</p></article>
+        <article class="service-card"><span>✂️</span><h3>Edging & Weed Eating</h3><p>Sharp borders around sidewalks, driveways, fences, and beds.</p></article>
+        <article class="service-card"><span>🌳</span><h3>Hedge Trimming</h3><p>Clean trimming for bushes, hedges, and curb appeal details.</p></article>
+        <article class="service-card"><span>🧹</span><h3>Yard Cleanups</h3><p>Overgrown yard? We clean it up and make it look alive again.</p></article>
+        <article class="service-card featured"><span>💦</span><h3>Pressure Washing</h3><p>Driveways, sidewalks, homes, patios, and more — fresh, bright, and clean.</p></article>
+      </div>
+    </section>
+
+    <section class="split reveal">
+      <div>
+        <p class="eyebrow">Coming Soon</p>
+        <h2>Before & after results section.</h2>
+        <p>Drop your real work pictures into the <b>work</b> folder later and replace these cards. Before/after photos are what will make this site convert like crazy.</p>
+      </div>
+      <div class="gallery-placeholders">
+        <div>Before Photo</div>
+        <div>After Photo</div>
+        <div>Driveway Wash</div>
+        <div>Lawn Cleanup</div>
+      </div>
+    </section>
+
+    <section class="section reveal" id="pricing">
+      <div class="section-heading">
+        <p class="eyebrow">Simple Starting Prices</p>
+        <h2>Clear pricing. Custom quotes for bigger jobs.</h2>
+      </div>
+      <div class="pricing-grid">
+        <article class="price-card"><h3>Lawn Services</h3><p>Starting at</p><strong>$65</strong></article>
+        <article class="price-card"><h3>Pressure Washing</h3><p>Starting at</p><strong>$120</strong></article>
+        <article class="price-card premium"><h3>Large Driveways</h3><p>Front to back</p><strong>$550–$600+</strong></article>
+      </div>
+    </section>
+
+    <section class="section reveal" id="reviews">
+      <div class="section-heading">
+        <p class="eyebrow">Customer Reviews</p>
+        <h2>Reliable work people can see from the street.</h2>
+      </div>
+      <div class="review-grid">
+        <article class="review-card"><div>★★★★★</div><p>“Showed up on time and made the yard look brand new. The edges were sharp and clean.”</p><strong>— Local Customer</strong></article>
+        <article class="review-card"><div>★★★★★</div><p>“The driveway looked completely different after the pressure wash. Great work and fair price.”</p><strong>— Jacksonville Homeowner</strong></article>
+        <article class="review-card"><div>★★★★★</div><p>“Quick response, clean results, and easy to book. Definitely using them again.”</p><strong>— Repeat Customer</strong></article>
+      </div>
+    </section>
+
+    <section class="quote-section reveal" id="quote">
+      <div class="quote-copy">
+        <p class="eyebrow">Free Quote</p>
+        <h2>Tell us what you need. We’ll build the text for you.</h2>
+        <p>Fill this out and hit send. It opens your text app with the quote request already written.</p>
+      </div>
+      <form class="quote-form" id="quoteForm">
+        <label>Name<input required id="name" type="text" placeholder="Your name"></label>
+        <label>Service Needed<select id="service"><option>Lawn Mowing</option><option>Edging & Weed Eating</option><option>Hedge Trimming</option><option>Yard Cleanup</option><option>Pressure Washing</option><option>Multiple Services</option></select></label>
+        <label>Address / Area<input id="area" type="text" placeholder="Jacksonville, NC"></label>
+        <label>Details<textarea id="details" placeholder="Tell us about the yard, driveway, size, schedule, etc."></textarea></label>
+        <button class="btn btn-primary" type="submit">Text My Quote Request</button>
+        <a class="btn btn-secondary full" href="tel:9103782417">Or Call Now</a>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <img src="logo.png" alt="LO'S Lawnscape logo" />
+    <p>LO'S Lawnscape & Pressure Washing</p>
+    <p>Serving Jacksonville & Surrounding Areas</p>
+    <p><a href="tel:9103782417">910-378-2417</a> • <a href="mailto:biglo121@yahoo.com">biglo121@yahoo.com</a></p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
